@@ -1,2 +1,2 @@
 # rearrange
-""" This function rearranges names  """
+""" This function rearranges LastName, FirstName to FirstName, LastName  """
